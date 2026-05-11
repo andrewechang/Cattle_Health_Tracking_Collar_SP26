@@ -7,7 +7,7 @@ This repository contains code for a smart collar mounted onto a cow to track met
 
 EGR4830 Members:  
 Sergio Maciel  
-John Mcdonald  
+John McDonald  
 Ethan Rosell  
 
 EGR4820 Members:  
