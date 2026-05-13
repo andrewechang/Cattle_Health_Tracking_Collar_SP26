@@ -1,4 +1,4 @@
-# Cattle_Health_Collar
+# Cattle Health Collar
 EGR4820/EGR4830 Senior Project  
 California State Polytechnic University, Pomona  
 Electrical and Computer Engineering Department  
